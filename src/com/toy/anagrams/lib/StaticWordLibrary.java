@@ -86,7 +86,8 @@ final class StaticWordLibrary extends WordLibrary {
         "straw",
         "juice",
         "cake",
-        "aplil"};
+        "aplil",
+        "ice"};
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "batsartcoin",
@@ -138,7 +139,8 @@ final class StaticWordLibrary extends WordLibrary {
         "twars",
         "ijuce",
         "kace",
-        "piral"
+        "piral",
+        "cie"
         
         
         
